@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528367238528",
+    "project_id": "gtchatroom-829e3",
+    "storage_bucket": "gtchatroom-829e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528367238528:android:a2d0c5eea84f6853945565",
+        "android_client_info": {
+          "package_name": "com.example.gtchatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528367238528-4slviu5bjusve1n8g0agos9k6o723lfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxqr8AGocYYvN4YI5xb-GXCD8N3rSTeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528367238528-4slviu5bjusve1n8g0agos9k6o723lfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
