@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">528367238528-4slviu5bjusve1n8g0agos9k6o723lfb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">528367238528</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsxqr8AGocYYvN4YI5xb-GXCD8N3rSTeY</string>
+    <string name="google_app_id" translatable="false">1:528367238528:android:a2d0c5eea84f6853945565</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsxqr8AGocYYvN4YI5xb-GXCD8N3rSTeY</string>
+    <string name="google_storage_bucket" translatable="false">gtchatroom-829e3.appspot.com</string>
+    <string name="project_id" translatable="false">gtchatroom-829e3</string>
+</resources>
